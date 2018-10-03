@@ -1,0 +1,11 @@
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/bin/Debug/netcoreapp2.1/1819-CSSE1.deps.json
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/bin/Debug/netcoreapp2.1/1819-CSSE1.runtimeconfig.json
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/bin/Debug/netcoreapp2.1/1819-CSSE1.runtimeconfig.dev.json
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/bin/Debug/netcoreapp2.1/1819-CSSE1.dll
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/bin/Debug/netcoreapp2.1/1819-CSSE1.pdb
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/obj/Debug/netcoreapp2.1/1819-CSSE1.csprojAssemblyReference.cache
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/obj/Debug/netcoreapp2.1/1819-CSSE1.csproj.CoreCompileInputs.cache
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/obj/Debug/netcoreapp2.1/1819-CSSE1.AssemblyInfoInputs.cache
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/obj/Debug/netcoreapp2.1/1819-CSSE1.AssemblyInfo.cs
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/obj/Debug/netcoreapp2.1/1819-CSSE1.dll
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/obj/Debug/netcoreapp2.1/1819-CSSE1.pdb
