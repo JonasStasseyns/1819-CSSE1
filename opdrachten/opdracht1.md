@@ -2,7 +2,7 @@
 **Onderdelen**
 
  - CPU
-	 - Staat voor Central Processing Unit of in het Nederlands: Centrale Verwerkingseenheid. Dit onderdeel doet alle bewerkingen van de computer op die van een eventuele GPU na. De CPU zit op de northbridge van het moederbord om zo snel en efficiënt mogelijk de data te ontvangen, verwerken en terugsturen. 
+	 - Staat voor Central Processing Unit of in het Nederlands: Centrale Verwerkingseenheid. Dit onderdeel doet alle bewerkingen van de computer, op die van een eventuele GPU na. De CPU zit op de northbridge van het moederbord om zo snel en efficiënt mogelijk de data te ontvangen, verwerken en terugsturen. 
  - GPU
 
 	 - De GPU of Graphics Processing Unit is ongeveer hetzelfde als de CPU, maar deze neemt grafische taken van de CPU over, zoals het renderen van elke frame die het scherm moet tonen. Bij zwaardere rendering zoals bij gaming en video-editing neemt de GPU het werk over zodat de CPU meer kracht over heeft voor andere zaken. De GPU bevindt zich op de northbridge en bevat meestal een eigen koeling en werkgeheugen.
