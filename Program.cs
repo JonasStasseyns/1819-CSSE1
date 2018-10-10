@@ -6,7 +6,8 @@ namespace _1819_CSSE1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Worlds!");
+            Console.WriteLine("test");
         }
     }
 }
