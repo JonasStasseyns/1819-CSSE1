@@ -14,6 +14,15 @@ namespace _1819_CSSE1
             int resultaat1 = optellen(a, b);
             int resultaat2 = deling(a, b);
             int resultaat3 = verhogen(a);
+           
+            String text = "Dit is een string!";
+
+            
+
+            for(int i=0;i<text.Length;i++){
+                Console.WriteLine(text[i]);
+            }
+
         }
         static int optellen(int a, int b){
                 return a+b;

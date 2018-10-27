@@ -1,0 +1,11 @@
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/bin/Debug/netcoreapp2.1/1-vermenigvuldiging.deps.json
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/bin/Debug/netcoreapp2.1/1-vermenigvuldiging.runtimeconfig.json
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/bin/Debug/netcoreapp2.1/1-vermenigvuldiging.runtimeconfig.dev.json
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/bin/Debug/netcoreapp2.1/1-vermenigvuldiging.dll
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/bin/Debug/netcoreapp2.1/1-vermenigvuldiging.pdb
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/obj/Debug/netcoreapp2.1/1-vermenigvuldiging.csprojAssemblyReference.cache
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/obj/Debug/netcoreapp2.1/1-vermenigvuldiging.csproj.CoreCompileInputs.cache
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/obj/Debug/netcoreapp2.1/1-vermenigvuldiging.AssemblyInfoInputs.cache
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/obj/Debug/netcoreapp2.1/1-vermenigvuldiging.AssemblyInfo.cs
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/obj/Debug/netcoreapp2.1/1-vermenigvuldiging.dll
+/Users/jonasstasseyns/Documents/GitHub/1819-CSSE1/opdrachten/opdracht2/1-vermenigvuldiging/obj/Debug/netcoreapp2.1/1-vermenigvuldiging.pdb
